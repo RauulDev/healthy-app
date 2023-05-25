@@ -2,3 +2,8 @@
 /backend/healthy-app/HealthyApp.API/bin/*
 /backend/healthy-app/.vs/healthy-app/v17/.suo
 /backend/healthy-app/.vs/*
+/backend/quickstart/.vs/*
+/backend/quickstart/src/Client/bin/*
+/backend/quickstart/src/Client/obj/*
+/backend/quickstart/src/IdentityServer/bin/*
+/backend/quickstart/src/IdentityServer/obj/*
