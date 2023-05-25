@@ -1,0 +1,4 @@
+/backend/healthy-app/HealthyApp.API/obj/*
+/backend/healthy-app/HealthyApp.API/bin/*
+/backend/healthy-app/.vs/healthy-app/v17/.suo
+/backend/healthy-app/.vs/*
